@@ -64,13 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Moovtips is a digital agency specializing in AI-driven web solutions for small businesses and artisans. They offer 3D websites, AI vocal agents, SEO, Shopify e‑commerce, Meta and Google advertising, and creative content generation. Their services aim to help TPEs grow online with free quotes and tailored digital strategies.
+Moovtips is a digital agency based in Wyoming, USA, offering custom web, 3D, SEO, AI, and advertising services for small businesses, artisans, and TPEs in France. They build hand‑crafted websites, AI‑driven phone agents, and e‑commerce solutions, with transparent pricing and a focus on client acquisition.
 
-**Areas:** Digital Agency · AI · Web Development · SEO · E-commerce · Company
+**Areas:** Digital Agency · Web Development · AI Services · SEO · E-commerce · Small Business
 
 ## Moovtips on APIs.io
 
 Everything profiled for Moovtips is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/moovtips-com/](https://apis.io/providers/moovtips-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Moovtips API](https://apis.io/apis/moovtips-com/moovtips-api/) — Moovtips does not publish a public machine‑readable API specification.
 
 ### Published properties
 
@@ -93,22 +97,23 @@ Published plans, tiers and prices.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://moovtips.com/)
-- [Pricing](https://moovtips.com/en/pricing)
-- [Blog](https://moovtips.com/fr/blog)
-- [Terms of service](https://moovtips.com/fr/mentions-legales)
+- [Documentation](https://moovtips.com/fr/blog)
+- [Getting started](https://moovtips.com/en/services/business-network-it-setup)
+- [Pricing](https://moovtips.com/fr/tarifs)
+- [Terms of service](https://moovtips.com/fr/cgv)
 - [Privacy policy](https://moovtips.com/fr/confidentialite)
 
 ## API Evangelist rating
 
-**Kin Score 13.8** — emerging · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 20.4** — emerging · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
 | Discoverability | 48.2 |
 | Contract quality | 0.0 |
-| Contract governance | 0.0 |
+| Contract governance | 16.4 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 2.4 |
+| Developer ergonomics | 21.4 |
 | Access clarity | 48.5 |
 
 **Agent readiness 3.1** — human-only
@@ -138,7 +143,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/moovtips-com/](https://apis.io/providers/moovtips-com/).
 
